@@ -13,5 +13,11 @@
 
 ## Github 업로드하기
 
-- git remode add origin 주소
+- git remote add origin https://github.com/Merhong/HelloWorld.git
+- git push origin master
+
+## 다시 업로드 하는 법
+- 소스코드 변경
+- git add .
+- git commit -m "변경내용 적기"
 - git push origin main
